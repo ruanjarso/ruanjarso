@@ -1,4 +1,4 @@
-## OLÁ, EU SOU RUAN JARSO, ESTUDANTE DE CIÊNCIA DA COMPUTAÇÃO! 
+## RUAN JARSO - DESENVOLVEDOR FRONT END 
 
 <div align="center" style= "display: inline-block"><br>
   <a href="https://github.com/ruanjarso">
