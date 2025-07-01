@@ -15,8 +15,8 @@
   <img align="center" alt="icon-tailwind" height="25" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042">
   <img align="center" alt="icon-vue" height="25" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png">
   <img align="center" alt="icon-node" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
-  <img align="center" alt="icon-next" height="30" width="35" src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png">
-  <img align="center" alt="icon-bootstrap" height="30" width="33" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
+  <img align="center" alt="icon-next" height="35" width="35" src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png">
+  <img align="center" alt="icon-bootstrap" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
 </div>
 
 <div> 
