@@ -13,6 +13,7 @@
   <img align="center" alt="icon-nuxt" height="30" width="30" src="https://nuxt.com/cdn-cgi/image/w=40,h=40/https://raw.githubusercontent.com/nuxt/modules/main/icons/nuxt.svg">
   <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="icon-tailwind" height="25" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042">
+  <img align="center" alt="icon-tailwind" height="25" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png">
   <img align="center" alt="icon-node" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
 </div>
 
